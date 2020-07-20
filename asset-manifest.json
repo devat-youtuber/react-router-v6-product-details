@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-router-v6-product-details/static/css/main.63759396.chunk.css",
+    "main.js": "/react-router-v6-product-details/static/js/main.287f5e6f.chunk.js",
+    "main.js.map": "/react-router-v6-product-details/static/js/main.287f5e6f.chunk.js.map",
+    "runtime-main.js": "/react-router-v6-product-details/static/js/runtime-main.3154b31d.js",
+    "runtime-main.js.map": "/react-router-v6-product-details/static/js/runtime-main.3154b31d.js.map",
+    "static/js/2.9ac1820c.chunk.js": "/react-router-v6-product-details/static/js/2.9ac1820c.chunk.js",
+    "static/js/2.9ac1820c.chunk.js.map": "/react-router-v6-product-details/static/js/2.9ac1820c.chunk.js.map",
+    "index.html": "/react-router-v6-product-details/index.html",
+    "precache-manifest.a3003fba05ec7ed3d127b944d5f76f92.js": "/react-router-v6-product-details/precache-manifest.a3003fba05ec7ed3d127b944d5f76f92.js",
+    "service-worker.js": "/react-router-v6-product-details/service-worker.js",
+    "static/css/main.63759396.chunk.css.map": "/react-router-v6-product-details/static/css/main.63759396.chunk.css.map",
+    "static/js/2.9ac1820c.chunk.js.LICENSE.txt": "/react-router-v6-product-details/static/js/2.9ac1820c.chunk.js.LICENSE.txt",
+    "static/media/bars-solid.svg": "/react-router-v6-product-details/static/media/bars-solid.b3f49afd.svg",
+    "static/media/times-solid.svg": "/react-router-v6-product-details/static/media/times-solid.2c5552a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3154b31d.js",
+    "static/js/2.9ac1820c.chunk.js",
+    "static/css/main.63759396.chunk.css",
+    "static/js/main.287f5e6f.chunk.js"
+  ]
+}
