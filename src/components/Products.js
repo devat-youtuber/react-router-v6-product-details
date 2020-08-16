@@ -3,7 +3,9 @@ import {DataContext} from './DataProvider'
 import {Link} from 'react-router-dom'
 
 export default function Products() {
-    const [products] = useContext(DataContext)
+    const value = useContext(DataContext)
+    const [products] = value.products
+    const addCart = value.addCart
 
     return (
         <div className="products">
@@ -19,7 +21,9 @@ export default function Products() {
                         </h3>
                         <p>{product.description}</p>
                         <h4>${product.price}</h4>
-                        <button>Add to cart</button>
+                        <button onClick={() => addCart(product._id)}>
+                            Add to cart
+                        </button>
                         </div>
                     </div>
                 ))
